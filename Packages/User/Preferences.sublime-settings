@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"font_face": "Inconsolata-dz",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
